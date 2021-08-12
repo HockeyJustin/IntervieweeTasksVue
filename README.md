@@ -5,7 +5,7 @@ Any problems with this, please get in touch. We are more than happy to help you 
 ## Setup
 
 1. Clone this repository
-2. `cd` to IntervieweeTasksVue
+2. `cd` to `IntervieweeTasksVue`
 3. Run `npm install`
 3. Run `npm run serve`
 4. Visit the site at http://localhost:8080/
