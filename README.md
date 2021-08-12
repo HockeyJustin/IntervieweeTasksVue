@@ -24,7 +24,7 @@ e.g. 'Test' becomes 'Test (4)', or Netherlands becomes 'Netherlands (11)'
 
 ## 3. Display unticked items - Stretch Goal (Bonus Item)
 
-Underneath the list of items, create a list of only UNTICKED items.
+Underneath the list of items, display a list of only UNTICKED items.
 
 ## 4. Style It
 
